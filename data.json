@@ -1,0 +1,124 @@
+{
+  "slots": [
+    {
+      "slotNumber": 1,
+      "floor": 1,
+      "vehicleType": "large vehicle",
+      "isOccupied": false,
+      "vehicleNumber": null
+    },
+    {
+      "slotNumber": 2,
+      "floor": 1,
+      "vehicleType": "large vehicle",
+      "isOccupied": true,
+      "vehicleNumber": "KA23TG8007"
+    },
+    {
+      "slotNumber": 1,
+      "floor": 2,
+      "vehicleType": "car",
+      "isOccupied": true,
+      "vehicleNumber": "KA03HM4561"
+    },
+    {
+      "slotNumber": 2,
+      "floor": 2,
+      "vehicleType": "car",
+      "isOccupied": true,
+      "vehicleNumber": "KA03HM5555"
+    },
+    {
+      "slotNumber": 3,
+      "floor": 2,
+      "vehicleType": "car",
+      "isOccupied": false
+    },
+    {
+      "slotNumber": 4,
+      "floor": 2,
+      "vehicleType": "car",
+      "isOccupied": false
+    },
+    {
+      "slotNumber": 1,
+      "floor": 3,
+      "vehicleType": "bike",
+      "isOccupied": false,
+      "vehicleNumber": null
+    },
+    {
+      "slotNumber": 2,
+      "floor": 3,
+      "vehicleType": "bike",
+      "isOccupied": true,
+      "vehicleNumber": "KA02HM4562"
+    },
+    {
+      "slotNumber": 3,
+      "floor": 3,
+      "vehicleType": "bike",
+      "isOccupied": false
+    },
+    {
+      "slotNumber": 4,
+      "floor": 3,
+      "vehicleType": "bike",
+      "isOccupied": false
+    },
+    {
+      "slotNumber": 5,
+      "floor": 3,
+      "vehicleType": "bike",
+      "isOccupied": false
+    },
+    {
+      "slotNumber": 6,
+      "floor": 3,
+      "vehicleType": "bike",
+      "isOccupied": false
+    },
+    {
+      "slotNumber": 7,
+      "floor": 3,
+      "vehicleType": "bike",
+      "isOccupied": false
+    },
+    {
+      "slotNumber": 8,
+      "floor": 3,
+      "vehicleType": "bike",
+      "isOccupied": false
+    }
+  ],
+  "vehicles": [
+    {
+      "numberPlate": "KA23TG8007",
+      "type": "large vehicle",
+      "entryTime": "2025-09-17T06:07:04.991Z",
+      "slotNumber": 2,
+      "floor": 1
+    },
+    {
+      "numberPlate": "KA02HM4562",
+      "type": "bike",
+      "entryTime": "2025-09-17T06:09:11.021Z",
+      "slotNumber": 2,
+      "floor": 3
+    },
+    {
+      "numberPlate": "KA03HM4561",
+      "type": "car",
+      "entryTime": "2025-09-17T07:30:50.606Z",
+      "slotNumber": 1,
+      "floor": 2
+    },
+    {
+      "numberPlate": "KA03HM5555",
+      "type": "car",
+      "entryTime": "2025-09-17T07:34:06.384Z",
+      "slotNumber": 2,
+      "floor": 2
+    }
+  ]
+}
